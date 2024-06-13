@@ -1,0 +1,22 @@
+.app {
+  height: 100vh;
+}
+.panel {
+  width: 20%;
+  margin-top: 5%;
+  padding: 10px;
+  border-left: 3px solid gray;
+  position: absolute;
+  right: 0;
+  height: 100%;
+  background: #c5c2c2;
+}
+.flow {
+  width: 80%;
+  height: 100%;
+  position: relative;
+}
+
+textarea {
+  border-radius: 5px;
+}

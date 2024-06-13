@@ -1,0 +1,25 @@
+.header {
+  width: 20%;
+  background: #c5c2c2;
+  height: 5rem;
+  float: right;
+  border-left: 3px solid gray;
+}
+.save-button {
+  position: absolute;
+  top: 3rem;
+  right: 4rem;
+  font-weight: 600;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #e9d8d8;
+  color: rgb(113, 113, 113);
+  border: 1px solid gray;
+  cursor: pointer;
+  border-radius: 5px;
+  z-index: 100;
+}
+
+.save-button:hover {
+  background-color: #dbb9b9;
+}
