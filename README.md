@@ -59,8 +59,8 @@ The Chatbot Flow Builder is a React-based application that allows users to creat
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/shabbiryahya/Chatbot-flow-builder.git
-   cd Chatbot-flow-builder
+   git clone https://github.com/nikhilshekar/chatbot-flow-builder.git
+   cd chatbot-flow-builder
    ```
 
 2. **Install Dependencies:**
