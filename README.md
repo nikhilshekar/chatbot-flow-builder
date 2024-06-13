@@ -6,7 +6,7 @@ The Chatbot Flow Builder is a React-based application that allows users to creat
 
 ## Deployed Link
 
-[Link]([https://dazzling-piroshki-44d0e5.netlify.app])
+[Link](https://dazzling-piroshki-44d0e5.netlify.app)
 
 ## Features
 
